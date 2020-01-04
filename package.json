@@ -1,0 +1,27 @@
+{
+  "name": "kierunek-server",
+  "version": "1.0.0",
+  "description": "Server to handle contact forms, signups and email notifictions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "kierunek",
+    "server"
+  ],
+  "author": "Karol Draganik",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.8.3",
+    "mongoose-timestamp": "^0.6.0",
+    "nodemailer": "^6.4.2",
+    "restify": "^8.5.1",
+    "restify-cors-middleware": "^1.1.1",
+    "restify-errors": "^8.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "prettier": "^1.19.1"
+  }
+}

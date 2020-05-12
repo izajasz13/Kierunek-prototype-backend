@@ -1,2 +1,2 @@
-# Kierunek-prototyp
-Prototyp podstawowego api, do obsługi formularza na stronie
+# Kierunek-prototype-backend
+Prototype of basic API for form request handling.
